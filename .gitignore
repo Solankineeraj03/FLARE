@@ -1,0 +1,11 @@
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.log
+.pytest_cache/
+.DS_Store
+.vscode/
+data/
+results/
+runs/

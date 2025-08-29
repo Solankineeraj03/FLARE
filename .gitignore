@@ -10,3 +10,8 @@ data/
 results/
 runs/
 client_indices/
+# Ignore TFLite / ONNX artifacts
+samin-tflite/
+*.onnx
+*.tflite
+*.h

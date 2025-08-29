@@ -40,14 +40,6 @@ FLARE solves this by combining:
 
 ---
 
-## 📖 Paper
-📄 *"FLARE: Battery-Free Federated Learning Scheme Using Adaptive Resource-Aware Sampling"*  
-Accepted to **IEEE Internet of Things Journal (2025)**.  
-
-**Authors:** Sepehr Tabrizchi, Rebati Gaire, **Neeraj Solanki**, Shayan Gerami, Ali Shafiee Sarvestani, Arman Roohi  
-
----
-
 ## ✨ Key Contributions
 - 🔋 **Intermittent-Aware FL:** First framework integrating reactive execution with FL  
 - 🧠 **Sampler Network:** Learns to pick most-informative samples (task-aware)  
